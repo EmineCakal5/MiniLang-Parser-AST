@@ -1,0 +1,15 @@
+# Executables and Libraries
+*.exe
+minilang
+
+# Compiler/Generator Outputs
+*.o
+*.out
+*.a
+*.so
+*.dll
+
+# Flex and Bison Intermediate Files
+parser.c
+parser.h
+lex.yy.c

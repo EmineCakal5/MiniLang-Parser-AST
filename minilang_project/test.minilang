@@ -1,0 +1,12 @@
+int main {
+
+    // Tüm değişken bildirimleri ve kontrol yapıları buraya
+    int a = 5;
+    int b = 3;
+    if (a > b) {
+        print(a + b);
+    } else {
+        print("a is not greater than b");
+    }
+
+}
